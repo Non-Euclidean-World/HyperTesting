@@ -3,7 +3,7 @@ Test case for checking if models work as expected.
 
 The test case should work for any geometry type.
 
-# Preerquisites
+# Prerequisites
 The game is running. The camera should be set to 3rd person.
 
 # Steps
