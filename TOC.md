@@ -1,4 +1,7 @@
 
 ## Characters
-- [Player Model Test Case](Characters/player-model-test-case.md)
-- [Projectiles Should Fire](Characters/projectiles-should-fire.md)
+- [Player Model Animations Run](Characters/player-model-animations-run.md)
+- [Projectiles Fire](Characters/projectiles-fire.md)
+
+## Chunks
+- [Terrain Generation Is Random](Chunks/terrain-generation-is-random.md)

@@ -9,4 +9,4 @@ The game is running. The camera should be set to 1st person. There are bullets i
 # Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
-| 1 | Press `LMB`. | The player model should stand still in the default position as shown [here](Resources/stand.jpg). |
+| 1 | Press `LMB`. | A projectile should be fired. The projectile should start moving directly from the crosshair. |
