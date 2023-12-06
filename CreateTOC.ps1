@@ -32,9 +32,18 @@ function Create-FolderHeader {
     )
     $relativeFolderPath = $folderPath.Substring($rootFolder.Length).Replace('\', '/')
     $folderName = Split-Path $relativeFolderPath -Leaf
-    $header = "## $folderName"
+    $header = "## $(Split-PascalCase $folderName)"
     Add-Content -Path $outputFile -Value ""
     Add-Content -Path $outputFile -Value $header
+}
+
+# https://gist.github.com/SteveGilham/32521c8f786078300f55#file-gistfile1-ps1
+function Split-PascalCase {
+    param ([string]$pascalCaseString)
+
+    $separatedWords = $pascalCaseString -creplace '(?<!^)([A-Z][a-z]|(?<=[a-z])[A-Z])', ' $&'.Split($null)
+
+    return $separatedWords
 }
 
 Get-ChildItem -Path $rootFolder -Recurse -Directory | ForEach-Object {
