@@ -1,14 +1,16 @@
-# Description
+## Chunks are generated 
+
+### Description
 Test case for checking if chunks are generated and removed based on the player position.
 
 The test case should work hyperbolic and euclidean geometries.
 
-# Prerequisites
+### Prerequisites
 The game is running. 
 The menu should be open. 
 Choose a direction.
 
-# Steps
+### Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
 | 1 | Move in the chosen direction. | New terrain should be generated. In the direction as shown [here](Resources/chunk-generated.mp4) |

@@ -1,10 +1,12 @@
-# Description
+## Controls screen works 
+
+### Description
 Test case for checking if the main menu works.
 
-# Prerequisites
+### Prerequisites
 The game is running. 
 
-# Steps
+### Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
 | 1 | Press `Esc`. Press the `Controls` button. | The controls screen should be visible as shown [here](Resources/controls.png).|

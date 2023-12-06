@@ -14,10 +14,17 @@
 
 ## Menu
 - [Controls Works](Hud/Menu/controls-works.md)
-- [Delete Section Works](Hud/Menu/delete-section-works.md)
-- [Load Section Works](Hud/Menu/load-section-works.md)
-- [Main Menu Works](Hud/Menu/main-menu-works.md)
-- [New Game Section Works](Hud/Menu/new-game-section-works.md)
+- [Delete Screen Works](Hud/Menu/delete-screen-works.md)
+- [Load Screen Works](Hud/Menu/load-screen-works.md)
+- [Main Menu Screen Works](Hud/Menu/main-menu-screen-works.md)
+- [New Game Screen Works](Hud/Menu/new-game-screen-works.md)
+
+## Lighting
+- [Sky](Hyper/Lighting/sky.md)
+
+## Spherical Space
+- [Teleportation](Hyper/SphericalSpace/teleportation.md)
+- [World In Spherical Space](Hyper/SphericalSpace/world-in-spherical-space.md)
 
 ## Projectiles Motion
 - [Projectile Collisions](Physics/ProjectilesMotion/projectile-collisions.md)

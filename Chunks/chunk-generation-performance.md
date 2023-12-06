@@ -1,15 +1,17 @@
-# Description
+## Chunk generation performance
+
+### Description
 Test case for checking if the terrain generation is random.
 
 The test case should work hyperbolic and euclidean geometries.
 
-# Prerequisites
+### Prerequisites
 The game is running. 
 The menu should be open. 
 A program that monitors the memory usage should be monitoring the usage of the game. 
 Performance profiling tools available in Visual Studio or Rider are recommended.
 
-# Steps
+### Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
 | 1 | Take not of the memory usage. |  |
