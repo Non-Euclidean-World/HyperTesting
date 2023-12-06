@@ -12,7 +12,4 @@ The gun is the selected item.
 # Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
-| 1 | Click LMB | The projectile should fire. |
-| 2 | Do nothing | The projectile should move along a parabola as can be seen [here](Resources/projectile-parabola.mp4) |
-| 3 | Do nothing | The projectile should land on the ground |
-| 4 | Do nothing | The projectile should disappear after a few seconds |
+| 1 | Click LMB | The projectile should fire, move along a parabola as can be seen [here](Resources/projectile-parabola.mp4), then it should land on the ground, and after a few seconds it should disappear |

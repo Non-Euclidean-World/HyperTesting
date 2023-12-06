@@ -11,5 +11,4 @@ The gun is pointing at a bot.
 # Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
-| 1 | Click LMB | The projectile should fire. |
-| 2 | Do nothing | The projectile should hit the bot and bounce off it like [here](Resources/projectile-collision.mp4) |
+| 1 | Click LMB | The projectile should fire, hit the bot, and bounce off it like [here](Resources/projectile-collision.mp4)|
