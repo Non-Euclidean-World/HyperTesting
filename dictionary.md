@@ -5,3 +5,5 @@ This document serves as a comprehensive glossary of technical terms and abbrevia
 | Term | Definition |
 | -------- | -------- |
 | LMD | Left mouse button |
+| Fame is running | The application is open and the menu is not open.
+| FPS | Frames Per Second |
