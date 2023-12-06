@@ -1,3 +1,5 @@
+./CreateTOC.ps1
+
 $texRoot = ".\latex"
 $mainTex = Join-Path -Path $texRoot -ChildPath "main.tex"
 $outputDir = "./latex/test-cases"
