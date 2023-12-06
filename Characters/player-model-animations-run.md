@@ -1,14 +1,14 @@
-# Player model animations run
+## Player model animations run
 
-## Description
+### Description
 Test case for checking if models work as expected.
 
 The test case should work for any geometry type.
 
-## Prerequisites
+### Prerequisites
 The game is running. The camera should be set to 3rd person.
 
-## Steps
+### Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
 | 1 | Do nothing. | The player model should stand still in the default position as shown [here](Resources/stand.jpg). |
