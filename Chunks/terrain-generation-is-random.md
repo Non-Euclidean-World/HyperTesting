@@ -1,12 +1,14 @@
-# Description
+## Terrain generation is random
+
+### Description
 Test case for checking if the terrain generation is random.
 
 The test case should work for any geometry type.
 
-# Prerequisites
+### Prerequisites
 The game is running. The menu should be open. Choose a type of geometry should be chosen for this test. Every time you start a game you should start it in the same chosen geometry.
 
-# Steps
+### Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
 | 1 | Start the game by navigating to the `New Game` tab in the menu, inputting a unique name and pressing Start. | Some terrain should be generated. |

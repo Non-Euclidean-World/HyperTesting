@@ -9,6 +9,13 @@
 ## Player Model
 - [Player Model Test Case](Characters/PlayerModel/player-model-test-case.md)
 
+## Lighting
+- [Sky](Hyper/Lighting/sky.md)
+
+## Spherical Space
+- [Teleportation](Hyper/SphericalSpace/teleportation.md)
+- [World In Spherical Space](Hyper/SphericalSpace/world-in-spherical-space.md)
+
 ## Projectiles Motion
 - [Projectile Collisions](Physics/ProjectilesMotion/projectile-collisions.md)
 - [Projectile Motion](Physics/ProjectilesMotion/projectile-motion.md)

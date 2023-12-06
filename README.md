@@ -1,4 +1,4 @@
-# HyperTesting
+## HyperTesting
 A repository containing manual test cases for the Hyper game.
 
 Dictionary for all terms used in the test cases can be found [here](dictionary.md).
