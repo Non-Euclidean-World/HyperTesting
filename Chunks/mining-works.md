@@ -1,4 +1,4 @@
-## Building works
+## Mining works
 
 ### Description
 Test case for checking if the terrain can be modified by building.

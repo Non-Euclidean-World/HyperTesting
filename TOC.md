@@ -4,8 +4,10 @@
 - [Projectiles Fire](Characters/projectiles-fire.md)
 
 ## Chunks
+- [Building Works](Chunks/building-works.md)
 - [Chunk Generation Performance](Chunks/chunk-generation-performance.md)
 - [Chunks Are Generated](Chunks/chunks-are-generated.md)
+- [Mining Works](Chunks/mining-works.md)
 - [Terrain Generation Is Random](Chunks/terrain-generation-is-random.md)
 
 ## Hud
