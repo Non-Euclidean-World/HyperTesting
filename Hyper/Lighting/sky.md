@@ -11,4 +11,4 @@ The game is running.
 ### Steps
 | Step | Action | Expected Result |
 | -------- | -------- | -------- |
-| 1 | Stand in one place and observe the sky | For the first 10 minutes there should be day, for the next 10 minutes there should be night. During the day, the sun should be visible and moving accross the sky. During the night, there should be stars and other cellestial bodies visible in the sky. Between day and night there should be a change in the atmosphere's color corresponding to sunrise and sunset. [here](Resources/day-night.mp4) |
+| 1 | Stand in one place and observe the sky | For the first 10 minutes there should be day, for the next 10 minutes there should be night. During the day, the sun should be visible and moving accross the sky; the scene should be illuminated by the color of the sun. During the night, there should be stars and other cellestial bodies visible in the sky; the scene should be illuminated by a faint blueish color. Between day and night there should be a change in the atmosphere's color corresponding to sunrise and sunset. [here](Resources/day-night.mp4) |
