@@ -5,7 +5,7 @@ Test case for checking if the load section of the menu works.
 
 ### Prerequisites
 The game is running. 
-You should have a name that no existing game save has.
+Your game should have a name that no existing game save has.
 
 ### Steps
 | Step | Action | Expected Result |

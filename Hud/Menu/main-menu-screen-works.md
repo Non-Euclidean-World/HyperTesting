@@ -15,4 +15,4 @@ The game is running.
 | 4 | Click the `Delete` button. | The `Delete` screen should be visible as shown [here](Resources/delete-game.png). |
 | 5 | Click the `Controls` button. | The `Controls` screen should be visible as shown [here](Resources/controls.png). |
 | 6 | Click the `Resume` button. | The game should resume. |
-| 7 | Click the `Quit` button. | The program should exit. |
+| 7 | Press `Esc` and then click the `Quit` button. | The program should exit. |

@@ -1,13 +1,13 @@
 ## Chunks are generated 
 
 ### Description
-Test case for checking if chunks are generated and removed based on the player position.
+Test case for checking if chunks are generated and removed based on the player's position.
 
-The test case should work hyperbolic and euclidean geometries.
+The test case should work with hyperbolic and Euclidean geometries.
 
 ### Prerequisites
-The game is running. 
-The menu should be open. 
+The game is running.
+The menu should be open.
 Choose a direction.
 
 ### Steps

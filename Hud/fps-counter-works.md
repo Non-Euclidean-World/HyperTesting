@@ -3,7 +3,7 @@
 ### Description
 Test case for checking if the FPS counter works.
 
-The test case should work all geometries.
+The test case should work with all geometries.
 
 ### Prerequisites
 The game is running. 
