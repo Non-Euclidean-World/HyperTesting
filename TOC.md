@@ -20,6 +20,9 @@
 - [New Game Screen Works](Hud/Menu/new-game-screen-works.md)
 
 ## Lighting
+- [Car Lights Work](Hyper/Lighting/car-lights-work.md)
+- [Flashlight Works](Hyper/Lighting/flashlight-works.md)
+- [Lamps Work](Hyper/Lighting/lamps-work.md)
 - [Sky](Hyper/Lighting/sky.md)
 
 ## Spherical Space
